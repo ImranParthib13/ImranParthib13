@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ImranParthib13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ImranParthib
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on Application Management
+- 📫 How to reach me
 
 <!---
 ImranParthib13/ImranParthib13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
